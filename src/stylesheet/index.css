@@ -1,0 +1,23 @@
+.img-tienda-mascota{
+    width: 100px;
+    height: 100px;
+  }
+
+
+  .navbar{
+    background-color:#91D9C4;
+    width: 120px;
+    border: solid;
+    
+}
+  
+.logo-tienda-mascota{
+    background-color:#91D9C4;
+    height: 80px;
+}
+
+.footer{
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 500px;
+}
