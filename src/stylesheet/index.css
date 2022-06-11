@@ -5,8 +5,9 @@
 
 
   .navbar{
+    display: flex;
     background-color:#91D9C4;
-    width: 120px;
+    width: 100%;
     border: solid;
     
 }
@@ -21,3 +22,4 @@
     align-items: flex-end;
     margin-bottom: 500px;
 }
+

@@ -1,11 +1,12 @@
 import React from "react";
-import NavBar from "../componentes/navNavegacion/navBar";
-import  LogoTienda  from "../componentes/logo";
-function Categoria() {
+import NavBar from "../componentes/navNavegacion/NavBar.js";
+import NavBarHeader from "../componentes/navNavegacion/NavBarHeader.js";
+function Productos() {
     return (
       <div className="App">
           
-            <LogoTienda />
+            <NavBarHeader />
+            <h2>Categoría</h2>
             <NavBar />
       
         
@@ -13,4 +14,4 @@ function Categoria() {
     );
   }
   
-  export default Categoria;
+  export default Productos;

@@ -1,10 +1,12 @@
 import React from "react";
-import  LogoTienda  from "../componentes/logo";
+import NavBarHeader from "../componentes/navNavegacion/NavBarHeader.js";
 import '../stylesheet/index.css';
+
 function Inicio() {
     return (
       <div className="container-inicio">
-        <LogoTienda />
+        <NavBarHeader />        
+       
         <h1>Página de inicio </h1>
       </div>
     );
