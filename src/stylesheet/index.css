@@ -17,6 +17,16 @@
     height: 80px;
 }
 
+.navbarLateral{
+    width: 250px;
+    
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+}
+
 .footer{
     display: flex;
     align-items: flex-end;

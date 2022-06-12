@@ -1,5 +1,5 @@
 import React from "react";
-import NavBarHeader from "../componentes/navNavegacion/NavBarHeader.js";
+import NavBarHeader from "../componentes/NavBarHeader.js";
 import '../stylesheet/index.css';
 
 function Inicio() {
