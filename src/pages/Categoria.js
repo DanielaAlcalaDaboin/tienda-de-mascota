@@ -11,8 +11,20 @@ function Productos() {
             <NavBarHeader />
           
           <div className="container-navbar-producto">
-            <NavBar />
-            <Producto />
+            <div className="row">
+              <div className="col">
+                 <NavBar /> 
+              </div>
+              <div className="col">
+                <Producto />
+              </div>
+              <div className="col">
+                <Producto />
+              </div>
+              <div className="col">
+                <Producto />
+              </div>
+            </div>
 
           </div>
            

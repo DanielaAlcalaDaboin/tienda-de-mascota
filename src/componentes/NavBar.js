@@ -6,8 +6,8 @@ function NavBar() {
   return (
     <div className="navbarLateral">
       <div className="navbar navbar-dark bg-dark shadow-sm">
-        <div className="container">
-          <a href="#" class="navbar-brand d-flex align-items-center">
+        <div className="container-title">
+          <a href="#" class="navbar-brand  align-items-center">
             <strong>Categorías</strong>
           </a>
           <button
