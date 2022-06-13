@@ -18,7 +18,7 @@
 }
 
 .navbarLateral{
-    width: 250px;
+    width: 350px;
     
 }
 
@@ -26,6 +26,18 @@
     text-decoration: none;
     color: white;
 }
+
+.container-navbar-producto{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container-productos{
+    padding: 60px;
+    height: 500px;
+}
+
 
 .footer{
     display: flex;
