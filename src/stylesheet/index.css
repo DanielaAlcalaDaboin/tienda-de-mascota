@@ -38,6 +38,16 @@
     height: 500px;
 }
 
+.suma-icon{
+    height: 12px;
+    width: 12px;
+    padding: 0;
+}
+.resta-icon{
+    height: 12px;
+    width: 12px;
+    padding: 0;
+}
 
 .footer{
     display: flex;
